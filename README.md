@@ -2,8 +2,7 @@
 App for changing Windows personalization options
 
 <p align="center">
-  <img align="right" src="https://github.com/tismiracle/Windows-Theme-Changer/assets/64694500/6968bd64-c3cb-4f02-9e1e-d653e9838332">
-  
+  <img align="center" src="https://github.com/tismiracle/Windows-Theme-Changer/assets/64694500/6968bd64-c3cb-4f02-9e1e-d653e9838332"> 
 </p>
 
 
