@@ -17,4 +17,5 @@ App enables:
 - turning on and off transparency
 
 ## How it works
+The app is changing Windows registry values in order to change the personalization options
 
