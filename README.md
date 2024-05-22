@@ -17,5 +17,13 @@ App enables:
 - turning on and off transparency
 
 ## How it works
-The app is changing Windows registry values in order to change the personalization options
+The app is changing Windows registry values in order to change the personalization options.
+
+To change the personalization settings, select expected option and click "Apply". It automatically reloads explorer.exe in order to save the changes. **To launch the app, please open it via launcher.py**
+
+## Used libaries
+- tkinter
+- subprocess
+- os
+- winreg
 
